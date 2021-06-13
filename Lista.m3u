@@ -4,7 +4,7 @@
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 #EXTINF:2,ElephantsDream - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+rtmp://192.168.1.18
 
 #EXTINF:3,Kompjuter
 rtmp://192.168.1.18/
